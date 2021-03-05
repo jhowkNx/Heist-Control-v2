@@ -72,7 +72,7 @@ You can also unlock all trophies, achievements and more..
 * BigCon Approach (Normal and Hard)
 * Aggressive Approach (Nomal and Hard)
 
-# Planning Board (1)
+## Planning Board (1)
 
 This is the initial planning screen of the Heist
 
