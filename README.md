@@ -9,6 +9,7 @@
 It only changes some stats, its entire function is based on GTA Online's own stats.
 
 * Can I be banned for changing some stats?
+
 Yes, you can.
 
 * There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
