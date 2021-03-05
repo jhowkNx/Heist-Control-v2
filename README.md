@@ -140,3 +140,16 @@ This will try to restore the heist to default mode, in case you encounter proble
 ## Doomsday Awards
 
 This will unlock all the achievements that you can get with the Heist.
+
+
+# High-End Apartment Heists
+
+Unfortunately the functions for this heist are very limited, I am still looking for some other options to try to improve it.
+
+## Set all Setups as Complete
+
+For this to work properly, you must pay to start and then proceed to the missions, then use this function to complete all setups immediately.
+
+## Apartment Heist Awards
+
+This will unlock all the achievements that you can get with the Heist.
