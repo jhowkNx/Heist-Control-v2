@@ -5,6 +5,7 @@
 * Its main function is to improve the time we repeat heists, decrease the need to do preparatory missions, help friends who wish to receive the money in an 'honest' way.
 
 * How does Heist Control affect my game?
+
 It only changes some stats, its entire function is based on GTA Online's own stats.
 
 * Can I be banned for changing some stats?
