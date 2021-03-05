@@ -164,3 +164,12 @@ For this to work properly, you must pay to start and then proceed to the mission
 ## Apartment Heist Awards
 
 This will unlock all the achievements that you can get with the Heist.
+
+# Misc Option (new)
+
+Recently added, it allows other functions to be added to this category.
+Leave Session' has been moved into this category
+
+# About
+Contains information about the Creator
+Contains information about the supporters and 2TAKE1 Devs
