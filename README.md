@@ -24,7 +24,7 @@ Attention: The use of this tool is entirely your responsibility, the use can bri
 * It was developed especially and exclusively for working with 2TAKE1 Menu. 
 
 
-# Cayo Perico (Heist)
+# Cayo Perico Heist
 
 * Insta-Play (Presets)
 
@@ -61,3 +61,16 @@ hoose between normal and hard difficulty.
 * Cayo Perico Awards
 
 You can also unlock all trophies, achievements and more..
+
+
+# Diamond Casino Heist
+
+* Inta-Play (Presets)
+
+Currently the available presets are:
+
+Silent and Sneaky Approach (Normal and Hard)
+
+BigCon Approach (Normal and Hard)
+
+Aggressive Approach (Nomal and Hard)
