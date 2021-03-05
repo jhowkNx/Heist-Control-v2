@@ -26,13 +26,13 @@
 * Added: Supply Truck Location
 * Implemented message about bonus event
 * Aprimored: Loot values (all presets)
-- Modified: 3 players method; advised percentage are now (Host: 20% - Players: 40% 40%)
-- Modified: Outside Compound loot has been changed to Mixed
-- Modified: Compound loot has been changed to Gold instead of Coke (to be less suspicious)
-- Fixed: Fill Your Bags (Award)
-- Removed: All secondary target options to set 'full X or Y' for bein' useless
-- Removed: Loot Generator
-- Removed: message about bag size
+* Modified: 3 players method; advised percentage are now (Host: 20% - Players: 40% 40%)
+* Modified: Outside Compound loot has been changed to Mixed
+* Modified: Compound loot has been changed to Gold instead of Coke (to be less suspicious)
+* Fixed: Fill Your Bags (Award)
+* Removed: All secondary target options to set 'full X or Y' for bein' useless
+* Removed: Loot Generator
+* Removed: message about bag size
 
 >NOTE:
 >50% Bonus - Weekly event (Cayo Perico Heist) is over!
