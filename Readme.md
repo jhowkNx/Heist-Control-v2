@@ -32,10 +32,10 @@ This is the function that allows you to quickly play any Cayo Perico heist, with
 
 ## The available presets are
 
-* Normal: (Which can be used any day)
-* Event: (Which should only be used while Rockstar activates the 50% bonus event for payments)
+* Normal: Which can be used any day.
+* Event: Which should only be used while Rockstar activates the weekly event: 50% bonus for payments.
 
-## Each Preset has a maximum value assigned, this value is
+## Each Preset has a maximum value assigned
 
 * Normal: $2,550,000 (per person)
 * Event: $4,100,000 (per person)
