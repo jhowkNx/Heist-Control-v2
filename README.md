@@ -119,7 +119,7 @@ This removes the payment that is deducted for each crew member at the end of the
 
 * Insta-Play Presets
 
-The presets that are added are:
+The presets that are added:
 
 * The Data Breaches - ACT I
 * The Bogdan Problem - ACT II
