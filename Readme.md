@@ -267,7 +267,7 @@ Leave Session' has been moved into this category
 
 
 # Credits
-## haekzzer for helping me with almost every function in this script
+## haekkzer for helping me with almost every function in this script
 ## 2TAKE1 Devs for allowing the use of their API.
 
 ## The UC (UnknownCheats) community for sharing a lot of information regarding all the heists.
