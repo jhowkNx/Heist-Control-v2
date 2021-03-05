@@ -191,6 +191,7 @@ This will unlock all the achievements that you can get with the Heist.
 # Misc Option (new)
 
 Recently added, it allows other functions to be added to this category.
+
 Leave Session' has been moved into this category
 
 # About
