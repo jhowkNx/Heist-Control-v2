@@ -1,9 +1,22 @@
 # Heist-Control-v2
 
-Heist Control is a LUA-based script.
-A Script designed to work on menus that support LUA API.
+* Heist Control is a LUA-based script.
+* A Script designed to work on menus that support LUA API.
 
-Its main function is to change the settings of heists in GTA Online, improve the self-control system and make most game functions automatic, without wasting time in most cases.
+* Its main function is to improve the time we repeat heists, decrease the need to do preparatory missions, help friends who wish to receive the money in an 'honest' way.
+
+* How does Heist Control affect my game?
+It only changes some stats, its entire function is based on GTA Online's own stats.
+
+* Can I be banned for changing some stats?
+Yes, you can.
+
+* There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
+
+* This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
+
+* To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
+You can also help me with any kind of donation via paypal.
 
 Attention: The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
