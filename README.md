@@ -69,8 +69,8 @@ You can also unlock all trophies, achievements and more..
 
 **Currently the available presets are:**
 
-*Silent and Sneaky Approach (Normal and Hard)
+***Silent and Sneaky Approach (Normal and Hard)***
 
-BigCon Approach (Normal and Hard)
+***BigCon Approach (Normal and Hard)***
 
-Aggressive Approach (Nomal and Hard)
+***Aggressive Approach (Nomal and Hard)***
