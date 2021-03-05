@@ -101,3 +101,20 @@ Can be useful if you want to make some changes and see them immediately
 ## Diamond Casino Awards
 
 You can unlock achievements from the initial Casino missions to the Heist themselves.
+
+## Remove Repeat Cooldown
+
+Unfortunately, after the success of some 'Heist Repeaters' Rockstar has added a server-side feature that are only allowed to pay every 15 minutes in real life.
+The Remove Repeat can be useful if you already want to anticipate the progress of the Heist and wait for your 15 minutes to start again
+
+## Set Heist to Default
+
+Useful if you encounter any incompatibility problems or even a strange bug
+
+## Remove all Crew Members (0%)
+
+This removes the payment that is deducted for each crew member at the end of the Heist. This will make sure that you receive the maximum of what you got during the heist.}
+
+# Doomsday Heist
+
+* Insta-Play Presets
