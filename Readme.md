@@ -1,8 +1,8 @@
 # Heist Control (v2)
 
-* Heist Control is a LUA-based script. A Script designed to work on menus that support LUA API.
+## Heist Control is a LUA-based script. A Script designed to work on menus that support LUA API.
 
-* Its main function is to improve the time we repeat heists, decrease the need to do preparatory missions, help friends who wish to receive the money in an 'honest' way.
+## Its main function is to improve the time we repeat heists, decrease the need to do preparatory missions, help friends who wish to receive the money in an 'honest' way.
 
 * How does Heist Control affect my game?
 
@@ -12,16 +12,16 @@ It only changes some stats, its entire function is based on GTA Online's own sta
 
 Yes, you can.
 
-* There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
+## There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
 
-* This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
+## This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
 
-* To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
+## To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
 You can also help me with any kind of donation via paypal.
 
-Attention: The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
+# Attention: The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
-* It was developed especially and exclusively for working with 2TAKE1 Menu. 
+## It was developed especially and exclusively for working with 2TAKE1 Menu. 
 
 
 # Cayo Perico Heist
