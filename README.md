@@ -53,4 +53,4 @@ Yes, you can also change where you want the truck to appear during your Heist.
 Choose between normal and hard difficulty.
 
 * Cayo Perico Awards
-You can also unlock all trophies, achievements and more.
+You can also unlock all trophies, achievements and more..
