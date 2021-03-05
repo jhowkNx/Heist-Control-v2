@@ -31,7 +31,7 @@ Attention: The use of this tool is entirely your responsibility, the use can bri
 This is the function that allows you to quickly play any Cayo Perico heist, without paying for preparations, missions and such things. Some presets already have the values (in %) calculated for each member of your Heist and these values cannot be higher or lower. This can directly affect the payment you will receive in the end.
 
 * Approach Vehicles
-*Here you can choose between just one and all vehicles that will be available to you during the Heist.
+-Here you can choose between just one and all vehicles that will be available to you during the Heist.
 
 * Primary Target
 All primary targets on the list, plus the exclusive item 'Sapphire Panther' which should probably appear normally for a few times.
