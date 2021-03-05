@@ -67,7 +67,7 @@ You can also unlock all trophies, achievements and more..
 
 * Inta-Play (Presets)
 
-*Currently the available presets are:
+**Currently the available presets are:**
 
 *Silent and Sneaky Approach (Normal and Hard)
 
