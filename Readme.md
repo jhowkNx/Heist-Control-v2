@@ -18,6 +18,7 @@ Yes, you can.
 
 ## To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
 You can also help me with any kind of donation via paypal.
+You can contact me by Discord (jhowkNx#0392)
 
 # Attention: The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
