@@ -32,6 +32,12 @@
 - Removed: Loot Generator
 - Removed: message about bag size
 
+>NOTE:
+>50% Bonus - Weekly event (Cayo Perico Heist) is over!
+>Check at 'Rockstar newswire' when it will be on again.
+>Don't waste your time using the event method while the event is off!
+
+
 ## Diamond Casino Heist
 
 - Added: Many missing Awards stats (int & bool)
@@ -49,8 +55,3 @@
 ## Doomsday Heist
 
 - Moved: All ACT's to a Insta-Play tab
-
->NOTE:
->50% Bonus - Weekly event (Cayo Perico Heist) is over!
->Check at 'Rockstar newswire' when it will be on again.
->Don't waste your time using the event method while the event is off!
