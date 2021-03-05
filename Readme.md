@@ -195,24 +195,35 @@ Here are some functions that might be interesting for some people
 Functions available in this category
 
 * Unlock all XMAS Liveries
+
+
 Makes you get some exclusive stickers for some of your vehicles.
 
 * Unlock Arena War - Trophies & Toys
+
 Unfortunately it is a bit limited, as some can only be unlocked using Packet Stats.
 
 * Unlock Night Club Award
+
 You can increase the popularity of your club as well as unlock achievements in general. Also limited by Packet Stats
 
 * Arcade Toys and Trophies
+
 Unfortunately it is a bit limited, as some can only be unlocked using Packet Stats.
 
 * Add cosmetics items in the Office and MC Club
+
+
 This will make your Office look nice, with lots of money and drugs around
 
 * Remove Vehicle Sell Limit
+
+
 You can sell vehicles at any time, however there is a limit by the server after you get an exact amount of money daily.
 
 * Unlock Shotaro
+
+
 Will allow you to buy this bike by Legendary Motorsport without the need to complete some missions for it.
 
 * Unlock Summer 2020 Awards
