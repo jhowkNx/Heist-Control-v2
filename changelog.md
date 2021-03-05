@@ -4,7 +4,7 @@
 
 * Added: Misc Tab
 * Moved: Master Unlocker & Leave Session to Misc Tab
-* Changes: Slight changes made to the Casino Heist - Presets
+* Changed: Slight changes made to the Casino Heist - Presets
 * Fixed: Remove all Secondary Target (Cayo Perico)
 * Fixed: Unlock all XMAS Liveries
 * Fixed: Remove Car Daily Limit (still has a server-side payout limit so...)
