@@ -81,3 +81,19 @@ Some functions that are on it:
 * Unlock access points
 * Change Approach and difficulty without affecting members/equipment
 * Change the primary target (Money, Art, Gold and Diamond)
+
+## Planning Board (2)
+
+Some functions that are on it:
+* Change Gunman Member
+* Change Weapon variation
+* Change Driver Member
+* Change Vehicles variation
+* Change Hacker Member
+* Choose Mask
+* Unlock Scan Card LVL 2
+* Remove Duggan Heavy Guards
+
+## Load and Unload Planning Board (1 & 2)
+
+Can be useful if you want to make some changes and see them immediately
