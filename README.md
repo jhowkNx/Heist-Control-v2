@@ -90,6 +90,8 @@ Some functions that are on it:
 * Change Driver Member
 * Change Vehicles variation
 * Change Hacker Member
+* Set Random Member
+* Remove Member
 * Choose Mask
 * Unlock Scan Card LVL 2
 * Remove Duggan Heavy Guards
