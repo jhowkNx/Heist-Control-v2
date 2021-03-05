@@ -3,7 +3,7 @@
 # Fixes
 
 * Added: Misc Tab
-* Moved: Leave Session to Misc Tab
+* Moved: Master Unlocker & Leave Session to Misc Tab
 * Fixed: Remove all Secondary Target (Cayo Perico)
 * Fixed: Unlock all XMAS Liveries
 * Fixed: Remove Car Daily Limit (still has a server-side payout limit so...)
