@@ -128,3 +128,15 @@ The presets that are added are:
 ## Unlock all Doomsday Heist
 
 This function is for those who have never played or hosted this heist before, use it only once to allow you to play without problems
+
+## Set all Preps as Done (Not setups)
+
+This is already self-explanatory, it just prepares all small boring preps in case you want to play only the setups with your friends.
+
+## Set Heist to Default
+
+This will try to restore the heist to default mode, in case you encounter problems in the future
+
+## Doomsday Awards
+
+This will unlock all the achievements that you can get with the Heist.
