@@ -30,6 +30,29 @@ Attention: The use of this tool is entirely your responsibility, the use can bri
 
 This is the function that allows you to quickly play any Cayo Perico heist, without paying for preparations, missions and such things. Some presets already have the values (in %) calculated for each member of your Heist and these values cannot be higher or lower. This can directly affect the payment you will receive in the end.
 
+## The available presets are
+
+* Normal: (Which can be used any day)
+* Event: (Which should only be used while Rockstar activates the 50% bonus event for payments)
+
+## Each Preset has a maximum value assigned, this value is
+
+* Normal: $2,550,000 (per person)
+* Event: $4,100,000 (per person)
+
+## To receive this maximum amount, the percentages must be exact to what the menu provides, members cannot die during the robbery, if they die or even restart it will cause the money to be subtracted and the payout amount will be less than desired
+
+## The percentage of members must be followed with respect, do not try to play the method with 3 players if you intend to play in duo. This will affect the final payout.
+
+## There are examples like
+* If you intend to play solo, obviously the payout will be 100%.
+* If you intend to play in duo (you and a friend) the percentage is 50% each.
+* If you intend to play in trio (you and two friends) the appropriate percentage is 20% for you and 40% for your friends
+* If you intend to play in squad (you and three friends) the appropriate percentage is 25% each.
+
+## If you try to add 85% for your friend and 15% for you using these presets, your friend will not receive any money, so please correctly follow the percentage presented by the script.
+
+
 ## Approach Vehicles
 
 * Here you can choose between just one and all vehicles that will be available to you during the Heist.
