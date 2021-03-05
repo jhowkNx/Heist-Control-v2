@@ -1,7 +1,6 @@
 # Heist-Control-v2
 
-* Heist Control is a LUA-based script.
-* A Script designed to work on menus that support LUA API.
+* Heist Control is a LUA-based script. A Script designed to work on menus that support LUA API.
 
 * Its main function is to improve the time we repeat heists, decrease the need to do preparatory missions, help friends who wish to receive the money in an 'honest' way.
 
