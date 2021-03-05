@@ -100,6 +100,15 @@ Some functions that are on it:
 
 Can be useful if you want to make some changes and see them immediately
 
+## Planning Board (3)
+
+Present functions:
+
+* Load the Board (3) with all options enabled
+* Remove the Drill for Silent and Aggressive Approach
+* Remove the Drill for BigCon Approach
+* Unload the Planning Board (3)
+
 ## Diamond Casino Awards
 
 You can unlock achievements from the initial Casino missions to the Heist themselves.
