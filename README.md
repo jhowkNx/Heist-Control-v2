@@ -71,3 +71,12 @@ You can also unlock all trophies, achievements and more..
 * Silent and Sneaky Approach (Normal and Hard)
 * BigCon Approach (Normal and Hard)
 * Aggressive Approach (Nomal and Hard)
+
+# Planning Board (1)
+
+This is the initial planning screen of the Heist
+Some functions that are on it are
+* Unlock Points of Interest 
+* Unlock access points
+* Change Approach and difficulty without affecting members/equipment
+* Change the primary target (Money, Art, Gold and Diamond)
