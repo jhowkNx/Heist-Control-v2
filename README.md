@@ -97,3 +97,7 @@ Some functions that are on it:
 ## Load and Unload Planning Board (1 & 2)
 
 Can be useful if you want to make some changes and see them immediately
+
+## Diamond Casino Awards
+
+You can unlock achievements from the initial Casino missions to the Heist themselves.
