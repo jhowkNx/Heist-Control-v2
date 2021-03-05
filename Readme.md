@@ -171,5 +171,5 @@ Recently added, it allows other functions to be added to this category.
 Leave Session' has been moved into this category
 
 # About
-Contains information about the Creator
-Contains information about the supporters and 2TAKE1 Devs
+* Contains information about the Creator
+* Contains information about the supporters and 2TAKE1 Devs
