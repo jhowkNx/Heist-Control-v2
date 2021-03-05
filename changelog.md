@@ -1,6 +1,6 @@
 #	Heist Control - v2.0.1
 
-# Fixes
+# News
 
 * Added: Misc Tab
 * Moved: Master Unlocker & Leave Session to Misc Tab
