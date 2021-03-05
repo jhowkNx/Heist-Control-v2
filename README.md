@@ -75,7 +75,8 @@ You can also unlock all trophies, achievements and more..
 # Planning Board (1)
 
 This is the initial planning screen of the Heist
-Some functions that are on it are
+
+Some functions that are on it are:
 * Unlock Points of Interest 
 * Unlock access points
 * Change Approach and difficulty without affecting members/equipment
