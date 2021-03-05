@@ -118,3 +118,13 @@ This removes the payment that is deducted for each crew member at the end of the
 # Doomsday Heist
 
 * Insta-Play Presets
+
+The presets that are added are:
+
+* The Data Breaches - ACT I
+* The Bogdan Problem - ACT II
+* The Doomsday Scenario - ACT III
+
+## Unlock all Doomsday Heist
+
+This function is for those who have never played or hosted this heist before, use it only once to allow you to play without problems
