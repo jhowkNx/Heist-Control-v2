@@ -1,3 +1,26 @@
+# Heist Control - v2.1.0
+
+## Cayo Perico Heist
+
+- Added: Message about Loots/Vehicles and Weapon Loadout (Presets)
+- Changed: All Weapon Loadout from presets has been modified to Marksman
+- Fixed: Pink Diamond Preset (Normal and Event Method - Solo only) (thx to 'vcafezinho' for reporting it)
+
+## Diamond Casino Heist
+
+- Added: Message about Loot/Crew Members and Loadouts (Presets)
+- Added: Option to Remove Mask
+- Changed: All mask from presets has been modified to Hunter Set
+
+## Doomsday Heist
+
+- Improvement: Stats have been adjusted to allow Lester to cancel the Heist. (ACT I, II and III)
+- 
+## Master Unlocker
+
+- Minor improvements
+
+--------------------------------------------------------------------------------
 #	Heist Control - v2.0.1
 
 # News
