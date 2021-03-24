@@ -20,12 +20,12 @@ It only changes some stats, its entire function is based on GTA Online's own sta
 Yes, you can.
 
 
-### There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
+There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
 
 
-### This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
+This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
 
-### To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
+To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
 You can also help me with any kind of donation via paypal.
 You can contact me by Discord (jhowkNx#0392)
 
