@@ -2,7 +2,13 @@
 
 ## Heist Control is a LUA-based script. A Script designed to work on menus that support LUA API.
 
-### Its main function is to improve the time we repeat heists, decrease the need to do preparatory missions, help friends who wish to receive the money in an 'honest' way.
+### The main function of Heist Control is to immediately prepare your Heist, allowing you to get the best items such as weapons, equipment, cars, and team members.  Removing the need to redo missions, collect items at various points on the map, and more.
+### What we can't forget either, is the powerful function to help your friends to earn money "honestly".
+
+### Attention: There is a cooldown that affects all Heists, this cooldown of 15 minutes is for high value payments that the Heist Control can offer, so if you want to restart (repeat) the heist with your friends, I recommend that after the end of each Heist, you wait about 15 minutes (in real life) for the next payment to be made on your account (or on your friends').
+
+# The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
+
 
 * How does Heist Control affect my game?
 
@@ -12,7 +18,9 @@ It only changes some stats, its entire function is based on GTA Online's own sta
 
 Yes, you can.
 
+
 ### There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
+
 
 ### This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
 
@@ -20,10 +28,7 @@ Yes, you can.
 You can also help me with any kind of donation via paypal.
 You can contact me by Discord (jhowkNx#0392)
 
-# Attention: The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
-
 ### It was developed especially and exclusively for working with 2TAKE1 Menu. 
-
 
 # Cayo Perico Heist
 
