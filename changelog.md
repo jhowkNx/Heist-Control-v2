@@ -15,7 +15,7 @@
 ## Doomsday Heist
 
 - Improvement: Stats have been adjusted to allow Lester to cancel the Heist. (ACT I, II and III)
-- 
+
 ## Master Unlocker
 
 - Minor improvements
