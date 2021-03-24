@@ -6,7 +6,7 @@ I do not offer support if you are using this script in another menu.
 ### The main function of Heist Control is to immediately prepare your Heist, allowing you to get the best items such as weapons, equipment, cars, and team members.  Removing the need to redo missions, collect items at various points on the map, and more.
 ### What we can't forget either, is the powerful function to help your friends to earn money "honestly".
 
-## Attention: There is a cooldown that affects all Heists, this cooldown of 15 minutes is for high value payments that the Heist Control can offer, so if you want to restart (repeat) the heist with your friends, I recommend that after the end of each Heist, you wait about 15 minutes (in real life) for the next payment to be made on your account (or on your friends').
+### Attention: There is a cooldown that affects all Heists, this cooldown of 15 minutes is for high value payments that the Heist Control can offer, so if you want to restart (repeat) the heist with your friends, I recommend that after the end of each Heist, you wait about 15 minutes (in real life) for the next payment to be made on your account (or on your friends').
 
 # The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
