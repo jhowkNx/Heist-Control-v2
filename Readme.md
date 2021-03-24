@@ -94,7 +94,7 @@ All primary targets on the list, plus the exclusive item 'Sapphire Panther' whic
 
 # Diamond Casino Heist
 
-* Inta-Play (Presets)
+* Insta-Play (Presets)
 
 **Currently the available presets are:**
 * Silent and Sneaky Approach (Normal and Hard)
