@@ -255,7 +255,7 @@ You may be at risk of ban if you use this several times in a short time
 * Unlock Vanilla Unicorn Award
 
 * Unlock Bunker Awards
-> Trigger Alien Egg Mission
+* Trigger Alien Egg Mission
 
 * Daily Objective Awards (Experimental)
 
