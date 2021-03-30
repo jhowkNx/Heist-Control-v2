@@ -1,3 +1,18 @@
+# Heist Control - v2.2.0
+
+## General
+
+- The encryption has been removed. (Allowing you to change, add other functions and translate as you wish).
+
+## Cayo Perico Heist
+
+- Added: 2 Player Method (Host: 15% and Player2: 85%) (Normal Method only)
+
+## Diamond Casino Heist
+
+- Fixed: 'Remove Mask' will now remove correctly
+
+--------------------------------------------------------------------------------
 # Heist Control - v2.1.0
 
 ## Cayo Perico Heist
