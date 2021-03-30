@@ -52,6 +52,7 @@ This is the function that allows you to quickly play any Cayo Perico heist, with
 ## There are examples like
 * If you intend to play solo, obviously the payout will be 100%.
 * If you intend to play in duo (you and a friend) the percentage is 50% each.
+* Also there is a new option for DUO: "Host 15% and Player2 85%".
 * If you intend to play in trio (you and two friends) the appropriate percentage is 20% for you and 40% for your friends
 * If you intend to play in squad (you and three friends) the appropriate percentage is 25% each.
 
