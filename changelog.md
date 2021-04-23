@@ -1,3 +1,25 @@
+# Heist Control - v2.3.0
+
+## Cayo Perico Heist
+
+- Added to all presets the Key to unlock 'Perico Pistol' at El Rubio Office
+- Added: Set Secondary Target to Mixed, Cash, Coke, Weed and Gold.
+
+## Diamond Casino Heist
+
+- Added: Information about crew Hacker when choosing from 'Planning Board (2)'
+- Added: Information about crew Driver when choosing from 'Planning Board (2)'
+- Fixed: Crew hacker member 'Christian Feltz & Yohan Blair' were reversed
+
+## Master Unlocker
+
+- Added: Don't Cross The Line Tee
+
+## General
+
+- Minor Improvements
+
+--------------------------------------------------------------------------------
 # Heist Control - v2.2.0
 
 ## General
