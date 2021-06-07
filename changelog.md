@@ -1,3 +1,7 @@
+# Heist Control - 2.4.1 (Hotfix)
+
+- Improved (4 Player) all Presets.
+--------------------------------------------------------------------------------
 # Heist Control - v2.4.0
 
 ## Cayo Perico Heist
