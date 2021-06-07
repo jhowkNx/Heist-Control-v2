@@ -5,7 +5,7 @@
 - Added: Random Preset
 - Added: Complete all missions only
 - Added: Force the longest final cutscene
-- Adjusted all Preset for 4 Players (25% each for player)
+- Adjusted all Preset for 4 Players (25% for each player)
 - All 4 player's presets have been readjusted to prevent a bug that could happen in rare cases, where members didn't receive their money correctly. (even obeying the cooldown)
 
 ## Diamond Casino Heist
