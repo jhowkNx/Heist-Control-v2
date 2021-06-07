@@ -1,6 +1,6 @@
 # Heist Control - 2.4.1 (Hotfix)
 
-- Improved (4 Player) all Presets.
+- Improved (4 Player) Presets.
 --------------------------------------------------------------------------------
 # Heist Control - v2.4.0
 
