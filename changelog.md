@@ -1,4 +1,4 @@
-# Heist Control - 2.4.0
+# Heist Control - v2.4.0
 
 ## Cayo Perico Heist
 
