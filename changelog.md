@@ -1,3 +1,17 @@
+# Heist Control - 2.5.0
+
+### GENERAL
+
+- Improved compatibility to 2TAKE1 v2.29.0
+- Added a new function (stat_set_float) for upcoming updates
+- Added support for the new notification system
+- Added Rebreather to Refill Inventory
+- Awards no longer require two categories to unlock, from now, INT (Integer) and BOOL (Boolean) are all in one
+- Remove Repeat Cooldown no longer has a warning string
+- Remove Orbital Cannon Cooldown is no longer a toggle option
+- Some texts have been improved to be clear as possible to understand
+- Updated tutorial.txt
+--------------------------------------------------------------------------------
 # Heist Control - 2.4.1 (Hotfix)
 
 - Improved (4 Players) Presets.
