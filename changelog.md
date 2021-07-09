@@ -1,4 +1,8 @@
-# Heist Control - 2.5.0
+# Heist Control - v2.5.1
+
+- Minor improvements
+--------------------------------------------------------------------------------
+# Heist Control - v2.5.0
 
 ### GENERAL
 
