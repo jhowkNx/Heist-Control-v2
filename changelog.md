@@ -1,3 +1,23 @@
+# Heist Control - v2.6.0
+
+## GENERAL
+
+ - Added Trusted Mode Check
+ * Heist Control will only start if Trusted Mode is activated.  (thx to Wolfry/Kektram/Proddy)
+
+## Cayo Perico Heist
+
+ - Secondary Loot:
+  * Added ability to change or remove certains loots from Compound
+  * Fixed "Paint loot" sometimes did not appear in all available places
+
+## Master Unlocker
+
+ - Added "Mental State"
+     - Maximum
+     - Half
+     - Remove
+--------------------------------------------------------------------------------
 # Heist Control - v2.5.1
 
 - Minor improvements
