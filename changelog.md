@@ -1,3 +1,27 @@
+# Heist Control 2.7.0
+
+## General
+
+ * Added "LS Tuners Contracts"
+   - The Superdollar Deal
+   - The Bank Contract
+   - The ECU Job
+   - The Prison Contract
+   - The Agency Deal
+   - The Lost Contract
+   - The Data Contract
+   - Complete missions only
+   - Reset Contracts
+
+## Master Unlocker
+
+ * LS Tuners DLC
+   + Added Unlock Awards
+   + Added Unlock Vehicle Challenge & Trade Price"
+
+ * Updated XMAS Liveries
+   + Added 4 new liveries
+--------------------------------------------------------------------------------
 # Heist Control - v2.6.0
 
 ## GENERAL
