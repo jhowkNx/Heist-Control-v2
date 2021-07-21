@@ -1,4 +1,4 @@
-# Heist Control 2.7.0
+# Heist Control - v2.7.0
 
 ## General
 
