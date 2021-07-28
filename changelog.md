@@ -34,7 +34,7 @@
    ## Master Unlocker
     + Added Cayo Perico Unlockables
 
-     ### LS Tuners DLC
+     ## LS Tuners DLC
      + Added "Unlock Drip Feed Vehicles"
      + Added "Unlock Drip Feed Clothing"
 
