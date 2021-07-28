@@ -2,8 +2,8 @@
 
    ## Cayo Perico Heist
    - Added Quick Preset (1-4 Players) $2.5 Millions
-     * An ultra-modified preset, you can play solo or with several friends, the money will be the same to everyone.
-     * The values will be different in the heist finale, but if you check in online players, they will receive the correct money
+   - An ultra-modified preset, you can play solo or with several friends, the money will be the same to everyone.
+   - The values will be different in the heist finale, but if you check in online players, they will receive the correct money
 
     * Added'Advanced Features
      * Added Bag capacity modifier
