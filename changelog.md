@@ -1,18 +1,18 @@
-# Heist Control 2.8.0
+# Heist Control v2.8.0
 
    ## Cayo Perico Heist
-    ## Added Quick Preset "[1-4 Players] $2.5 Millions"
+    - Added Quick Preset "[1-4 Players] $2.5 Millions"
     - An ultra-modified preset, you can play solo or with several friends, the money will be the same to everyone.
     - The values will be different in the heist finale, but if you check in online players, they will receive the correct money
 
-    ## Added "Advanced Features"
+    ++ Added "Advanced Features"
      + Added Bag capacity modifier
      + Added "Players Cut"
      + Added "Remove Fencing Fee & Pavel Cut"
      + Added Teleport to Kosatka
 
    ## Diamond Casino Heist
-    ## Added "Advanced Features"
+    ++ Added "Advanced Features"
      + Added "Modify Preset to max payout" (Pays $3.4 millions to everyone)
      + Added "Increase potential take"
      + Added "Players Cut"
@@ -34,7 +34,7 @@
    ## Master Unlocker
     + Added Cayo Perico Unlockables
 
-     ## LS Tuners DLC
+     ++ LS Tuners DLC
      + Added "Unlock Drip Feed Vehicles"
      + Added "Unlock Drip Feed Clothing"
 
