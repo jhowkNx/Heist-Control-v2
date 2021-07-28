@@ -2,11 +2,11 @@
 
    ## Cayo Perico Heist
    
-     * Added Quick Preset [1-4 Players] $2.5 Millions
+     * Added Quick Preset (1-4 Players) $2.5 Millions
      * An ultra-modified preset, you can play solo or with several friends, the money will be the same to everyone.
      * The values will be different in the heist finale, but if you check in online players, they will receive the correct money
 
-    - Added 'Advanced Features'
+    * Added'Advanced Features
      * Added Bag capacity modifier
      * Added Players Cut
      * Added Remove Fencing Fee & Pavel Cut
@@ -24,13 +24,13 @@
      + Added option to get $2.4 Millions per player (ACT 2 only)
 
    ## Classic Heists
-     + Added Your Cut (Host only)
-     + Added 10 Million Payout (Fleeca Heist, host only)
-     - Renamed High-End Apartment Heists to Classic Heists
+      * Added Your Cut (Host only)
+      * Added 10 Million Payout (Fleeca Heist, host only)
+      * Renamed High-End Apartment Heists to Classic Heists
 
    ## LS Tuners Robbery
-     + Added Increase contracts payout (1 million) (affects you only)
-     + Added option to reset missions
+       * Added Increase contracts payout (1 million) (affects you only)
+       * Added option to reset missions
 
    ## Master Unlocker
     + Added Cayo Perico Unlockables
