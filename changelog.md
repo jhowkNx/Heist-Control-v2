@@ -28,8 +28,8 @@
    - Renamed High-End Apartment Heists to Classic Heists
 
    ## LS Tuners Robbery
-       * Added Increase contracts payout (1 million) (affects you only)
-       * Added option to reset missions
+   - Added Increase contracts payout (1 million) (affects you only)
+   - Added option to reset missions
 
    ## Master Unlocker
    - Added Cayo Perico Unlockables
