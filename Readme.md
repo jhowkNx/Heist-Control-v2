@@ -1,6 +1,6 @@
 # Heist Control (v2)
 
-## Heist Control is a LUA Script... Made just to work with the 2TAKE1 Menu. 
+## Heist Control is a LUA Script... Made to work with the 2TAKE1 Menu only!
 
 The main function of Heist Control is to immediately prepare your Heist, allowing you and yours friends to get the maximum payment.
 It is also able to provided the best items, such as weapons, equipments, vehicles and the best team members (IA).
