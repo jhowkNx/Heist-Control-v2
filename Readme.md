@@ -146,7 +146,8 @@ All primary targets on the list, plus the exclusive item 'Sapphire Panther' whic
 -  This option changes the target value and also changes the percentage. It is necessary that you remove the payment from the bots (IA Crew) so that everyone receives the maximum value by this method
 
 ## Increase potential gains
-- Changes the value of the item)
+- Changes the value of the item
+- Affects all primary targets
 
 ## Players Cut
 - Allows you to modify the percentage of each member in your heist
