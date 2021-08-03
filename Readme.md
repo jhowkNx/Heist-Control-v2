@@ -2,7 +2,9 @@
 
 ## Heist Control is a LUA Script... Made just to work with the 2TAKE1 Menu. 
 
-The main function of Heist Control is to immediately prepare your Heist, allowing you to get the best items such as weapons, equipment, cars, and team members.  Removing the need to redo missions, collect items at various points on the map, and more.
+The main function of Heist Control is to immediately prepare your Heist, allowing you to get the maximum payment.
+It is also able to provided items such as weapons, equipment, cars and the best team members.
+Removing the need to redo missions, collect items at various points on the map and more.
 What we can't forget either, is the powerful function to help your friends to earn money "honestly".
 
 Attention: There is a cooldown that affects all Heists, this cooldown of 15 minutes is for high value payments that the Heist Control can offer, so if you want to restart (repeat) the heist with your friends, I recommend that after the end of each Heist, you wait about 15 minutes (in real life) for the next payment to be made on your account (or on your friends').
@@ -31,33 +33,58 @@ You can contact me by Discord (jhowkNx#0392)
 
 # Cayo Perico Heist
 
-* Insta-Play (Presets)
+* Automated Presets
 
-This is the function that allows you to quickly play any Cayo Perico heist, without paying for preparations, missions and such things. Some presets already have the values (in %) calculated for each member of your Heist and these values cannot be higher or lower. This can directly affect the payment you will receive in the end.
+This preset is an improved version of the old "Normal Presets".
+It is a totally redesigned version, everything before you start the Heist is automatic. The targets values, the percentages are fully calculated by it, you will not be able to change these settings.
 
-## The available presets are
+The most this preset can offer you and others, is a payout within the limit of $2,550,000 every 15 minutes!
 
-* Normal: Which can be used any day.
-* Event: Which should only be used while Rockstar activates the weekly event: 50% bonus for payments.
-
-## Each Preset has a maximum value assigned
-
-* Normal: $2,550,000 (per person)
-* Event: $4,100,000 (per person)
-
-## To receive this maximum amount, the percentages must be exact to what the menu provides, members cannot die during the robbery, if they die or even restart it will cause the money to be subtracted and the payout amount will be less than desired
+## To receive this maximum amount, the percentages must be exact to what the preset provides, members cannot die during the robbery, if they die or even restart it will cause the money to be subtracted and the payout amount will be less than desired
 
 ## The percentage of members must be followed with respect, do not try to play the method with 3 players if you intend to play in duo. This will affect the final payout.
 
 ## There are examples like
 * If you intend to play solo, obviously the payout will be 100%.
 * If you intend to play in duo (you and a friend) the percentage is 50% each.
-* Also there is a new option for DUO: "Host 15% and Player2 85%".
-* If you intend to play in trio (you and two friends) the appropriate percentage is 20% for you and 40% for your friends
+* If you intend to play in trio (you and two friends) the appropriate percentage is 30% for you and 35% for your friends
 * If you intend to play in squad (you and three friends) the appropriate percentage is 25% each.
 
-## If you try to add 85% for your friend and 15% for you using these presets, your friend will not receive any money, so please correctly follow the percentage presented by the script.
+##The available presets are
+- SOLO
+- 2 Players
+- 3 Players
+- 4 Players
 
+In all these presets, the only primary targets available are: The legendary Sapphire Statue (Panther) and Ruby Necklace, both offer the same payout with only a slight variation to make it less cloying
+
+Each preset is capable of offering the highest payout to each participating member
+
+REMEMBER: You cannot play DUO using a preset made for SOLO or 3/4 players! 
+
+There is a preset that is called "[1-4 Players] Quick Method".
+This preset is the fastest available at the moment, with it you will only have the sub to use and recommended you choose to invade through the sewer.
+And with it, there are no secondary targets, all members will receive the 2.4mil payout just by stealing the primary target. So you won't waste time
+
+The 'Semi-Original' preset is a preset that is pretty much the original version, with minor improvements over the second loot.
+The preset is not calculated, i.e. there is no way to know what the final payout of the members will be. 
+But with it you are allowed to use a range of functions available in the script, but you must respect the payment limit, with it you must make a calculation to not exceed the limit and have the payment denied in the end.
+
+## Custom Teleport
+The name says it, able to offer you resources to make the Heist as fast as possible
+
+## Advanced options
+The advanced options contain a few items:
+
+## Players Cut
+- Allows you to modify the percentage of each member in your heist
+- Note: If you add a percentage much higher than normal, obviously you will not receive anything
+- 
+## Bag Modifier
+- Allows you to exceed the default limit when collecting the secondary target in your bag (this function only affects you)
+- 
+## Remove Fencing Fee & Pavel Cut
+As the name says, it removes the discounts on the final payout of your heist (it is not recommended to use this option in automatic presets)
 
 ## Approach Vehicles
 
@@ -91,15 +118,42 @@ All primary targets on the list, plus the exclusive item 'Sapphire Panther' whic
 
 * You can also unlock all trophies, achievements and more..
 
+## Complete the missions (only)
 
+## Force of longest final cutscene
+- Forces you to watch a long final cutscene (trevor)
+
+## Set Heist to Default (Reset)
+- In case of bugs, with it you are able to roll back most of the process done by the script
+
+## Remove Repeat Cooldown
+- Not so useful option since it is not able to circumvent the payment cooldown (15 minutes)
+
+
+------------
 # Diamond Casino Heist
 
-* Insta-Play (Presets)
+## Insta-Play (Presets)
 
 **Currently the available presets are:**
 * Silent and Sneaky Approach (Normal and Hard)
 * BigCon Approach (Normal and Hard)
 * Aggressive Approach (Nomal and Hard)
+
+## Advanced Features
+
+## Modify preset to max payout (3.4mil per player)
+-  This option changes the target value and also changes the percentage. It is necessary that you remove the payment from the bots (IA Crew) so that everyone receives the maximum value by this method
+
+## Increase potential gains
+- Changes the value of the item)
+
+## Players Cut
+- Allows you to modify the percentage of each member in your heist
+- Note: If you add a percentage much higher than normal, obviously you will not receive anything
+
+## Remove IA Crew Payout
+- Remove payment discount that would be offered to them at the end of the heist
 
 ## Planning Board (1)
 
@@ -165,11 +219,20 @@ The presets that are added:
 * The Bogdan Problem - ACT II
 * The Doomsday Scenario - ACT III
 
+## Advanced Features:
+
+## Players Cut
+- Allows you to modify the percentage of each member in your heist
+- Note: If you add a percentage much higher than normal, obviously you will not receive anything
+
+# Modify ACT2 Payout (2.4mil)
+- This function only applies to ACT II (Bogdan problem) of Doomsday Heist, everyone will get the maximum value displayed by the script!
+
 ## Unlock all Doomsday Heist
 
 This function is for those who have never played or hosted this heist before, use it only once to allow you to play without problems
 
-## Set all Preps as Done (Not setups)
+## Complete all preparations (Not setups)
 
 This is already self-explanatory, it just prepares all small boring preps in case you want to play only the setups with your friends.
 
@@ -182,19 +245,31 @@ This will try to restore the heist to default mode, in case you encounter proble
 This will unlock all the achievements that you can get with the Heist.
 
 
-# High-End Apartment Heists
+# Classic Heists
 
-Unfortunately the functions for this heist are very limited, I am still looking for some other options to try to improve it.
+## Your Percentage
+- Unfortunately this feature will only affect you
 
-## Set all Setups as Complete
+## Fleeca Heist Payout 10millions (only works for you)
+- Who would have thought that the first heist would be to pay that amount?
+- It is possible, but use with care!
 
-For this to work properly, you must pay to start and then proceed to the missions, then use this function to complete all setups immediately.
+## Complete all setups
+
+- For this to work properly, you must pay to start and then proceed to the missions, then use this function to complete all setups immediately.
 
 ## Apartment Heist Awards
 
-This will unlock all the achievements that you can get with the Heist.
+- This will unlock all the achievements that you can get with the Heist.
 
-# Master Unlocker
+## LS Tuners Robbery
+A range of newly added missions
+With this function, you are able to start any of them without worrying about repeating missions
+
+## Increase Contracts payout (1MI) - Affects only you
+- This option increases the payout for any mission to 1 million
+
+## Master Unlocker
 
 Here are some functions that might be interesting for some people
 
