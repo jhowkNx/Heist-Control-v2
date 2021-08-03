@@ -79,7 +79,7 @@ The advanced options contain a few items:
 ## Players Cut
 - Allows you to modify the percentage of each member in your heist
 - Note: If you add a percentage much higher than normal, obviously you will not receive anything
-- 
+
 ## Bag Modifier
 - Allows you to exceed the default limit when collecting the secondary target in your bag (this function only affects you)
 - 
