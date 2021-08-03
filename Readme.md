@@ -82,7 +82,7 @@ The advanced options contain a few items:
 
 ## Bag Modifier
 - Allows you to exceed the default limit when collecting the secondary target in your bag (this function only affects you)
-- 
+
 ## Remove Fencing Fee & Pavel Cut
 As the name says, it removes the discounts on the final payout of your heist (it is not recommended to use this option in automatic presets)
 
