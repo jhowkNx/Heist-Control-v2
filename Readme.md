@@ -50,7 +50,7 @@ The most this preset can offer you and others, is a payout within the limit of $
 * If you intend to play in trio (you and two friends) the appropriate percentage is 30% for you and 35% for your friends
 * If you intend to play in squad (you and three friends) the appropriate percentage is 25% each.
 
-##The available presets are
+## The available presets are
 - SOLO
 - 2 Players
 - 3 Players
