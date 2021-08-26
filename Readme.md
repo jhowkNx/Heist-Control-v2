@@ -384,9 +384,7 @@ You may be at risk of ban if you use this several times in a short time
 -  Remove cutscenes
 -  Remove notifications
 -  Heist Cooldown Reminder
-
-
-Leave Session' has been moved into this category
+-  Leave Session
 
 # About
 * Contains information about the Creator
