@@ -36,6 +36,9 @@ Besides being able to equip the best members of your heist, the best weapons and
 
 # The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
+# How safe is Heist Control?
+-     Heist Control does not use any stat that is detected by Rockstar's anti-cheat. Though bans can happen if some admin of it enters your heist. In rare cases this can happen.
+
 
 # How to install Heist Control Lua Script?
 
