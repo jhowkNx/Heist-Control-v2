@@ -4,8 +4,8 @@
 
 ### Unlock Shooting Range Rewards
 - This function is not unlocking the missions correctly
-     * Has this problem been fixed? Nope yet.
+      * Has this problem been fixed? Nope yet.
 
 ### Flight School Awards:
 - It's not working properly, it looks like Rockstar has changed these stats
--    Has this problem been fixed? Nope yet.
+      * Has this problem been fixed? Nope yet.
