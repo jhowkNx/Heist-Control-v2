@@ -1,13 +1,16 @@
-# Heist Control (v2)
+# Heist Control v2
 
-## Heist Control is a LUA Script... Made to work with the 2TAKE1 Menu only!
+## Heist Control is a LUA Script originally designed for the 2Take1 Menu.
 
-* The main function of Heist Control is to immediately prepare your Heist, allowing you and yours friends to get the maximum payment.
-* It is also able to provided the best items, such as weapons, equipments, vehicles and the best team members (IA).
-* Removing the need to redo missions, collect items at various points on the map and more.
-* What we can't forget either, is the powerful function to help your friends to earn money "honestly".
+- What is "Heist Control
+     - The name says it, you will be able to take full control of your heist.
 
-Attention: There is a cooldown that affects all Heists, this cooldown of 15 minutes is for high value payments that the Heist Control can offer, so if you want to restart (repeat) the heist with your friends, I recommend that after the end of each Heist, you wait about 15 minutes (in real life) for the next payment to be made on your account (or on your friends').
+- Heist control is able to set up your heist in just one click. No longer will you have to do some boring setups to play your favorite heist, heist control will do it for you in a snap.
+
+- The term 'preset' represents a range of various modifications made by the script automatically when you choose a preset of your choice.
+
+- When using a preset, Heist Control sets up your heist for the best items, unlocks various specific areas of your heist.
+Besides being able to equip the best members of your heist, the best weapons and also, being able to manipulate the payment of a heist... Heist Control is fully capable of helping your friends who do not have enough money to buy that favorite car or that dream yacht.
 
 # The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
