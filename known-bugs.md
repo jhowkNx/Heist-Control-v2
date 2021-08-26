@@ -1,6 +1,6 @@
 # List of known bugs... Updated 8/26/2021
 
-## [11.0] [MASTER-UNLOCKER]
+## [2.11.0] [MASTER-UNLOCKER]
 
 ### Unlock Shooting Range Rewards
 - This function is not unlocking the missions correctly
