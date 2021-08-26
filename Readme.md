@@ -377,11 +377,14 @@ You may be at risk of ban if you use this several times in a short time
 * Unlock Bunker Awards
 * Trigger Alien Egg Mission
 
-* Daily Objective Awards (Experimental)
+* Daily Objective Awards
 
-# Misc Option (new)
+# Tools
 
-Recently added, it allows other functions to be added to this category.
+-  Remove cutscenes
+-  Remove notifications
+-  Heist Cooldown Reminder
+
 
 Leave Session' has been moved into this category
 
@@ -393,5 +396,6 @@ Leave Session' has been moved into this category
 # Credits
 ## haekkzer for helping me with almost every function in this script
 ## 2TAKE1 Devs for allowing the use of their API.
+## & Many others from 2Take1 Discord Community for helping me with several new functions.
 
 ## The UC (UnknownCheats) community for sharing a lot of information regarding all the heists.
