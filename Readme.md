@@ -31,7 +31,7 @@
 -   Unlock LVL 2 Cards
  and much more!
 
-- When using a preset, Heist Control sets up your heist for the best items, unlocks various specific areas of your heist.
+## When using a preset, Heist Control sets up your heist for the best items, unlocks various specific areas of your heist.
 Besides being able to equip the best members of your heist, the best weapons and also, being able to manipulate the payment of a heist... Heist Control is fully capable of helping your friends who do not have enough money to buy that favorite car or that dream yacht.
 
 # The use of this script is at your own risk!!!
