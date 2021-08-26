@@ -18,7 +18,7 @@
 -   Change the position of clothing, equipment and the supply truck.
 -   Change and fully unlock the main vehicle to start the heist
 -   Change the percentage and payment of each member in your heist
-...and much more!
+ and much more!
 
 # For Diamond Casino Heist you will be able to
 -   Complete all missions instantly
@@ -29,7 +29,7 @@
 -   Unlock the best members, best weapons and best vehicles
 -   Weaken enemy guards
 -   Unlock LVL 2 Cards
-...and much more!
+ and much more!
 
 - When using a preset, Heist Control sets up your heist for the best items, unlocks various specific areas of your heist.
 Besides being able to equip the best members of your heist, the best weapons and also, being able to manipulate the payment of a heist... Heist Control is fully capable of helping your friends who do not have enough money to buy that favorite car or that dream yacht.
@@ -38,7 +38,6 @@ Besides being able to equip the best members of your heist, the best weapons and
 
 # How safe is Heist Control?
 -   Heist Control does not use any stat that is detected by Rockstar's anti-cheat. Though bans can happen if some admin of it enters your heist. In rare cases this can happen.
-
 
 # How to install Heist Control Lua Script?
 
