@@ -7,7 +7,8 @@
 
 - Heist Control is able to set up your heist in just one click. No longer will you have to do some boring setups to play your favorite heist, Heist Control will do it for you.
 
-## Important: If this is your first time doing heists, remember to do your first heist legitimately so as not to cause bugs.
+## Important: If you are doing your first heist, remember to do your first heist legitimately so as not to cause bugs.
+## If you encounter any problems, there is an option to revert your heist to its original state (Reset Heist)
 
 - The term 'Preset' represents a range of various modifications made by the script automatically when you choose a preset of your choice.
 
