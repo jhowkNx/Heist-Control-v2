@@ -10,25 +10,25 @@
 - The term 'preset' represents a range of various modifications made by the script automatically when you choose a preset of your choice.
 
 # For example Cayo Perico Heist, you will be able to
--     Complete all missions instantly
--     Change Main Target
--     Change the Secondary Target
--     Change weapons, equipment, vehicles, etc...
--     Change the members (AI) of your heists
--     Change the position of clothing, equipment and the supply truck.
--     Change and fully unlock the main vehicle to start the heist
--     Change the percentage and payment of each member in your heist
+-   Complete all missions instantly
+-   Change Main Target
+-   Change the Secondary Target
+-   Change weapons, equipment, vehicles, etc...
+-   Change the members (AI) of your heists
+-   Change the position of clothing, equipment and the supply truck.
+-   Change and fully unlock the main vehicle to start the heist
+-   Change the percentage and payment of each member in your heist
 ...and much more!
 
 # For Diamond Casino Heist you will be able to
--     Complete all missions instantly
--     Change Main Target
--     Unlock all points of interest
--     Unlock all approaches
--     Unlock All Necessary Equipment
--     Unlock the best members, best weapons and best vehicles
--     Weaken enemy guards
--     Unlock LVL 2 Cards
+-   Complete all missions instantly
+-   Change Main Target
+-   Unlock all points of interest
+-   Unlock all approaches
+-   Unlock All Necessary Equipment
+-   Unlock the best members, best weapons and best vehicles
+-   Weaken enemy guards
+-   Unlock LVL 2 Cards
 ...and much more!
 
 - When using a preset, Heist Control sets up your heist for the best items, unlocks various specific areas of your heist.
@@ -37,7 +37,7 @@ Besides being able to equip the best members of your heist, the best weapons and
 # The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
 # How safe is Heist Control?
--     Heist Control does not use any stat that is detected by Rockstar's anti-cheat. Though bans can happen if some admin of it enters your heist. In rare cases this can happen.
+-   Heist Control does not use any stat that is detected by Rockstar's anti-cheat. Though bans can happen if some admin of it enters your heist. In rare cases this can happen.
 
 
 # How to install Heist Control Lua Script?
