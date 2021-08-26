@@ -1,9 +1,9 @@
 # List of known bugs... Updated 8/26/2021
 
-### [11.0] [MASTER-UNLOCKER]
+## [11.0] [MASTER-UNLOCKER]
 
-## Unlock Shooting Range Rewards
+### Unlock Shooting Range Rewards
 - This function is not unlocking the missions correctly
 
-## Flight School Awards:
+### Flight School Awards:
 - It's not working properly, it looks like Rockstar has changed these stats
