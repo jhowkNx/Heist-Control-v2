@@ -21,10 +21,10 @@ Attention: There is a cooldown that affects all Heists, this cooldown of 15 minu
 
 ## VIDEO TUTORIAL
 
--- ALL HEISTS + LS ROBBERY
+* ALL HEISTS + LS ROBBERY
 https://www.youtube.com/watch?v=THn9lQ4EPBA
 
--- LS Tuners Easy RP Unlocker
+* LS Tuners Easy RP Unlocker
 https://www.youtube.com/watch?v=UGBoPz9kkYA
 ----------------------------------------------
 
