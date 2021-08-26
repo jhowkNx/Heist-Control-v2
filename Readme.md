@@ -2,12 +2,34 @@
 
 ## Heist Control is a LUA Script originally designed for the 2Take1 Menu.
 
-- What is "Heist Control
+- What is "Heist Control"?
      - The name says it, you will be able to take full control of your heist.
 
-- Heist control is able to set up your heist in just one click. No longer will you have to do some boring setups to play your favorite heist, heist control will do it for you in a snap.
+- Heist Control is able to set up your heist in just one click. No longer will you have to do some boring setups to play your favorite heist, heist control will do it for you.
 
 - The term 'preset' represents a range of various modifications made by the script automatically when you choose a preset of your choice.
+
+# For example Cayo Perico Heist, you will be able to
+-     Complete all missions instantly
+-     Change Main Target
+-     Change the Secondary Target
+-     Change weapons, equipment, vehicles, etc...
+-     Change the members (AI) of your heists
+-     Change the position of clothing, equipment and the supply truck.
+-     Change and fully unlock the main vehicle to start the heist
+-     Change the percentage and payment of each member in your heist
+...and much more!
+
+# For Diamond Casino Heist you will be able to
+-     Complete all missions instantly
+-     Change Main Target
+-     Unlock all points of interest
+-     Unlock all approaches
+-     Unlock All Necessary Equipment
+-     Unlock the best members, best weapons and best vehicles
+-     Weaken enemy guards
+-     Unlock LVL 2 Cards
+...and much more!
 
 - When using a preset, Heist Control sets up your heist for the best items, unlocks various specific areas of your heist.
 Besides being able to equip the best members of your heist, the best weapons and also, being able to manipulate the payment of a heist... Heist Control is fully capable of helping your friends who do not have enough money to buy that favorite car or that dream yacht.
