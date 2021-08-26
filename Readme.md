@@ -12,6 +12,25 @@ Attention: There is a cooldown that affects all Heists, this cooldown of 15 minu
 # The use of this tool is entirely your responsibility, the use can bring risks to your account permanently.
 
 
+# How to install Heist Control Lua Script?
+
+1.  Move "Heist-Control-v2.lua" to Scripts folder
+2.  Open 2TAKE menu then go to Scripts and enable "Trusted Mode"
+3.  Now go to Script Features and select "Heist-Control-v2.lua"
+ - Enjoy!
+
+# Get the latest version here:
+https://github.com/jhowkNx/Heist-Control-v2
+######################################################
+VIDEO TUTORIAL
+
+ALL HEISTS + LS ROBBERY
+https://www.youtube.com/watch?v=THn9lQ4EPBA
+
+LS Tuners Easy RP Unlocker
+https://www.youtube.com/watch?v=UGBoPz9kkYA
+######################################################
+
 * How does Heist Control affect my game?
 
 It only changes some stats, its entire function is based on GTA Online's own stats.
