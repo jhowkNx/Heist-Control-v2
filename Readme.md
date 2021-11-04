@@ -1,5 +1,7 @@
 # Heist Control v2
 
+### To download this Script, click on the right on "Realeases" >
+
 ## Heist Control is a LUA Script originally designed for the 2Take1 Menu.
 
 - What is "Heist Control"?
