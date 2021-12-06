@@ -266,13 +266,13 @@ The presets that are added:
 * The Bogdan Problem - ACT II
 * The Doomsday Scenario - ACT III
 
-## Advanced Features:
+# Advanced Features:
 
 ## Players Cut
 - Allows you to modify the percentage of each member in your heist
 - Note: If you add a percentage much higher than normal, obviously you will not receive anything
 
-# Modify ACT2 Payout (2.4mil)
+## Modify ACT2 Payout (2.4mil)
 - This function only applies to ACT II (Bogdan problem) of Doomsday Heist, everyone will get the maximum value displayed by the script!
 
 ## Unlock all Doomsday Heist
