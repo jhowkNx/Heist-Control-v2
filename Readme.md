@@ -329,8 +329,8 @@ With this function, you are able to start any of them without worrying about rep
 
 
 # Credits
-## haekkzer for helping me with almost every function in this script
-## 2TAKE1 Devs for allowing the use of their API.
-## & Many others from 2Take1 Discord Community for helping me with several new functions.
+- haekkzer for helping me with almost every function in this script
+- 2TAKE1 Devs for allowing the use of their API.
+- & Many others from 2Take1 Discord Community for helping me with several new functions.
 
-## The UC (UnknownCheats) community for sharing a lot of information regarding all the heists.
+## UC (UnknownCheats) community for sharing a lot of information regarding all the heists.
