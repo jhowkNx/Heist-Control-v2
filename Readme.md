@@ -46,12 +46,15 @@ Besides being able to equip the best members of your heist, the best weapons and
 
 # How to install Heist Control Lua Script?
 
--  Move "Heist-Control-v2.lua" to Scripts folder
--  Open 2TAKE menu then go to Scripts and enable "Trusted Mode"
--  Now go to Script Features and select "Heist-Control-v2.lua"
-- Enjoy!
+1. Move "Heist-Control-v2.lua" to Scripts folder
+2. Open 2TAKE Menu then go to Scripts and enable "Trusted Mode"
+3. Now you are able to select "Heist-Control-v2.lua"
+4. Back to Script Features, profit!
 
 ## VIDEO TUTORIAL
+
+* DIAMOND CASINO HEIST 2022 TUTORIAL
+https://www.youtube.com/watch?v=82DJLOgu91Y
 
 * ALL HEISTS + LS ROBBERY
 https://www.youtube.com/watch?v=THn9lQ4EPBA
