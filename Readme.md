@@ -175,10 +175,6 @@ All primary targets on the list, plus the exclusive item 'Sapphire Panther' whic
 ## Set Heist to Default (Reset)
 - In case of bugs, with it you are able to roll back most of the process done by the script
 
-## Remove Repeat Cooldown
-- Not so useful option since it is not able to circumvent the payment cooldown (15 minutes)
-
-
 ------------
 # Diamond Casino Heist
 
