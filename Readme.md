@@ -1,13 +1,9 @@
-# Heist Control v2
+## Welcome to Heist Control v2
 
-### To download this Script, click on the right on "Releases" >
+## Heist Control is a script that was originally born for the 2Take1 Menu
 
-## Heist Control is a LUA Script originally designed for the 2Take1 Menu.
-
-- What is "Heist Control"?
-     - The name says it, you will be able to take full control of your heist.
-
-- Heist Control is able to set up your heist in just one click. No longer will you have to do some boring setups to play your favorite heist, Heist Control will do it for you.
+- Its main function is to improve the way in which heists can be made, completed or improved using specific functions for such situations.
+- One of its most used features is the preset with a high payout power, offering all members of your heist the best payouts.
 
 ## Important: If you are doing your first heist, remember to do your first heist legitimately to avoid bugs like (I can't send pics to Lester from Casino Heist)
 ## If you encounter any problems, there is an option to revert your heist to its original state (Reset Heist)
@@ -68,17 +64,7 @@ https://www.youtube.com/watch?v=UGBoPz9kkYA
 It only changes some stats, its entire function is based on GTA Online's own stats.
 
 * Can I be banned for changing some stats?
-
 Yes, you can.
-
-
-There are no reports of bans during the use or involvement with Heist Control, since the v1 version has proven safe for the time being.
-
-## Donations
-This project is free. I do not recommend paying for this script if you found it on some random forum on the internet.
-
-To continue developing, improving and adding more functions to Heist Control, this requires my 2TAKE1 Menu license to be active and this generates costs. 
-You can also help me with any kind of donation via paypal: https://www.paypal.com/donate?hosted_button_id=QATMBFBYY576G
 
 # Cayo Perico Heist
 
@@ -175,7 +161,6 @@ All primary targets on the list, plus the exclusive item 'Sapphire Panther' whic
 ## Set Heist to Default (Reset)
 - In case of bugs, with it you are able to roll back most of the process done by the script
 
-------------
 # Diamond Casino Heist
 
 ## Insta-Play (Presets)
@@ -197,9 +182,6 @@ All primary targets on the list, plus the exclusive item 'Sapphire Panther' whic
 ## Players Cut
 - Allows you to modify the percentage of each member in your heist
 - Note: If you add a percentage much higher than normal, obviously you will not receive anything
-
-## Remove IA Crew Payout
-- Remove payment discount that would be offered to them at the end of the heist
 
 ## Planning Board (1)
 
@@ -290,7 +272,6 @@ This will try to restore the heist to default mode, in case you encounter proble
 
 This will unlock all the achievements that you can get with the Heist.
 
-
 # Classic Heists
 
 ## Your Percentage
@@ -315,7 +296,7 @@ With this function, you are able to start any of them without worrying about rep
 ## Increase Contracts payout (1MI) - Affects only you
 - This option increases the payout for any mission to 1 million
 
-# Tools
+# Advanced Options
 
 -  Remove cutscenes
 -  Remove notifications
@@ -328,8 +309,8 @@ With this function, you are able to start any of them without worrying about rep
 
 
 # Credits
-- haekkzer for helping me with almost every function in this script
+- haekkzer for helping me with almost every function.
 - 2TAKE1 Devs for allowing the use of their API.
-- & Many others from 2Take1 Discord Community for helping me with several new functions.
+- & Many others smart guys from 2Take1 Discord Community for helping me with several functions.
 
 ## UC (UnknownCheats) community for sharing a lot of information regarding all the heists.
